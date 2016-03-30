@@ -14,7 +14,7 @@ To have these done you need to open iTunes and login into iTunes Store, then onc
 Go to AppStore app and search for `OS X` and just download it, if the app asks about that you're using a newer version just continue - we need to installation dmg file to go further.
 
 ## Preparing USB stick for OS X image
-Use following script `prepare_for_install.sh` and dont' forget to add execute rights for it using `chmod +x prepare_for_install`. Mine example of usage this script looks like
+Use following script `prepare_for_install.sh` and dont' forget to add execute rights for it using `chmod +x prepare_for_install`. Mine example of usage this script looks like where the first argument is Installer name under `/Applications` directory and the second argument is name of Volume you want to install to.
 ```bash
 prepare_for_install.sh 'Install OS X El Capitan' 'Untitled'
 ```
