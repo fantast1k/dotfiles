@@ -18,3 +18,6 @@ Use following script `prepare_for_install.sh` and dont' forget to add execute ri
 ```bash
 prepare_for_install.sh 'Install OS X El Capitan' 'Untitled'
 ```
+
+# Installation of OS X
+Once everything is done in Prerequisite section you have to put your USB stick into physical port, restart the Mac and hold down the Option key at the start of boot process.
