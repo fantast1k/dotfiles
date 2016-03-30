@@ -8,4 +8,4 @@ A useful set of dotfiles &amp;&amp; scripts to set up your Mac for development
 If you thing you can improve the repository feel free to issue pull request, all contributions and improvements are welcome
 
 ## Table of Content
-* [Install OS X from scratch](https://github.com/fantast1k/dotfiles/blob/master/Install%20OS%20X)! - describes what to do if you want to re/install OS X
+* [Install OS X from scratch](https://github.com/fantast1k/dotfiles/blob/master/Install%20OS%20X) - describes what to do if you want to re/install OS X
