@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# This script simply takes latest skype and installs it into Application 
+# This script simply takes latest viber and installs it into Application 
 # folder
 
 temp=$TMPDIR$(uuidgen)
