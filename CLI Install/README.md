@@ -12,3 +12,6 @@ That script is simply installs standalone Xcode Command Line Tools, keep in mind
 
 ## Use of google_chrome.sh
 That scripts simply takes the last Google Chrome from website, mount an given image, copy it to Application folder and dismount an image and clear downloaded image
+
+## Use of brew.sh
+That script simply install missing OS X package manager
