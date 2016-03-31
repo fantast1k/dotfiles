@@ -30,7 +30,10 @@ That script simply installs interested packages using brew
 This script updates and installs interested gems. Careful note: since OS X El Capitan gems gonna be installed to /usr/local/bin, so all installed gems be removed and their new versions installed to /usr/local/bin. New gems also be installed the same path
 
 ## Use of skype.sh
-That script simply installs Skype mostly the same way as Google Chrome
+That script simply installs Skype mostly the same way as any other normal application
 
 ## Use of viber.sh
-That script simply installs Viber mostly the same way as Google Chrome
+That script simply installs Viber mostly the same way as any other normal application
+
+## Use of dropbox.sh
+That script simply installs Dropbox mostly the same way as any other normal application
