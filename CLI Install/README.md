@@ -10,6 +10,13 @@ Some scripts may want to use Assistive Touch from Terminal which is not enabled 
 ## Use of xcode_command_line_tools.sh
 That script is simply installs standalone Xcode Command Line Tools, keep in mind it requires Assistive Touch and going to accept License Agreement for you automatically.
 
+## Use of Xcode.sh
+That scripts installs Xcode by using AppStore, so you Apple ID credentials be needed. Use that script like:
+```bash
+echo -e “AppleId
+ApplePassword” | xcode.sh
+```
+
 ## Use of google_chrome.sh
 That scripts simply takes the last Google Chrome from website, mount an given image, copy it to Application folder and dismount an image and clear downloaded image
 
