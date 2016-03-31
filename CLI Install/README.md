@@ -31,3 +31,6 @@ This script updates and installs interested gems. Careful note: since OS X El Ca
 
 ## Use of skype.sh
 That script simply installs Skype mostly the same way as Google Chrome
+
+## Use of viber.sh
+That script simply installs Viber mostly the same way as Google Chrome
