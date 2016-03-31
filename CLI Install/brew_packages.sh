@@ -14,8 +14,11 @@ brew update
 # Upgrade any already installed packages
 brew upgrade --all
 
-# Install useful packages
+# Install development packages
 brew install git
+
+# If you have home server or machines you want to wake up on lan
+brew install wakeonlan
 
 # Remove outdated packages
 brew cleanup
