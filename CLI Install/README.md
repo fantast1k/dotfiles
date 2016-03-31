@@ -15,3 +15,6 @@ That scripts simply takes the last Google Chrome from website, mount an given im
 
 ## Use of brew.sh
 That script simply install missing OS X package manager
+
+## Use of brew_packages.sh
+That script simply installs interested packages using brew
