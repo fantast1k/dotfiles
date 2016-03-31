@@ -4,3 +4,4 @@
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cp `find "$DIR" -name ".*" -d 1` ~/
+source ~/.bashrc
