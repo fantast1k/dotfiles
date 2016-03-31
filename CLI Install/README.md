@@ -18,3 +18,6 @@ That script simply install missing OS X package manager
 
 ## Use of brew_packages.sh
 That script simply installs interested packages using brew
+
+## Use of gem_packages.sh
+This script updates and installs interested gems. Careful note: since OS X El Capitan gems gonna be installed to /usr/local/bin, so all installed gems be removed and their new versions installed to /usr/local/bin. New gems also be installed the same path
