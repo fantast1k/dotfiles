@@ -8,3 +8,6 @@ Run this script if you want to install pending updates from AppStore
 
 ## Use of brew.sh
 Run this script if you want to update brew packages 
+
+## Use of gem.sh
+Run this script if you want to update ruby gems
