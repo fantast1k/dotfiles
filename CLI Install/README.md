@@ -34,6 +34,3 @@ That script simply installs Skype mostly the same way as any other normal applic
 
 ## Use of viber.sh
 That script simply installs Viber mostly the same way as any other normal application
-
-## Use of dropbox.sh
-That script simply installs Dropbox mostly the same way as any other normal application

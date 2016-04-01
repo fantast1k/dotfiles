@@ -11,3 +11,5 @@ I prefer the next apps that need to be installed manually
 ## Proxies
 * [Charles Proxy](https://www.charlesproxy.com/) - a beutiful proxy app for development
 
+## Synchronization
+* [Dropbox](https://www.dropbox.com) - a nice to have synchronization app, that's easy to use
