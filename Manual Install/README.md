@@ -16,3 +16,6 @@ I prefer the next apps that need to be installed manually
 
 ## Git
 * [SourceTree](https://www.sourcetreeapp.com/) - nice git management tool, I usually use git from command line, but that tool allow you to review the changes very easily and nicely
+
+## Video Player
+* [VLC](http://www.videolan.org/vlc/) - there is nothing to say, you all know what it is
