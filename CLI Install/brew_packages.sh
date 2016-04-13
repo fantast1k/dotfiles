@@ -14,6 +14,9 @@ brew update
 # Upgrade any already installed packages
 brew upgrade --all
 
+# Install cask
+brew install caskroom/cask/brew-cask
+
 # Install development packages
 brew install git
 brew install bash-completion
