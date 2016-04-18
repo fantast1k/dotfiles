@@ -21,5 +21,8 @@ brew install bash-completion
 # If you have home server or machines you want to wake up on lan
 brew install wakeonlan
 
+# Install brew cask programs
+brew cask install keepingyouawake
+
 # Remove outdated packages
 brew cleanup
