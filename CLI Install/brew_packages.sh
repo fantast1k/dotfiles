@@ -22,6 +22,7 @@ brew install bash-completion
 brew install wakeonlan
 
 # Install brew cask programs
+brew cask install transmission
 brew cask install keepingyouawake
 
 # Remove outdated packages
