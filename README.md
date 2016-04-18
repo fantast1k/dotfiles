@@ -14,3 +14,4 @@ If you thing you can improve the repository feel free to issue pull request, all
 * [Configure](https://github.com/fantast1k/dotfiles/blob/master/Configure) - contains scripts to configure software
 * [dotfiles](https://github.com/fantast1k/dotfiles/blob/master/dotfiles) - contains useful dotfiles and bootstrap script to place it correctly
 * [Update](https://github.com/fantast1k/dotfiles/blob/master/Update) - contains scripts to update software
+* [Development](https://github.com/fantast1k/dotfiles/blob/master/Update) - contains useful info about mine development environment
