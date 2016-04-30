@@ -24,6 +24,7 @@ brew install wakeonlan
 # Install brew cask programs
 brew cask install transmission
 brew cask install keepingyouawake
+brew cask install sqlitebrowser
 
 # Remove outdated packages
 brew cleanup
