@@ -19,3 +19,6 @@ I prefer the next apps that need to be installed manually
 
 ## Video Player
 * [VLC](http://www.videolan.org/vlc/) - there is nothing to say, you all know what it is
+
+## Developer
+* [Base 2](https://menial.co.uk/base/) - SQLite GUI database manager
