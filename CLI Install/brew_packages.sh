@@ -17,6 +17,7 @@ brew upgrade --all
 # Install development packages
 brew install git
 brew install bash-completion
+brew install automake
 brew install autogen
 brew install autoconf
 
