@@ -18,6 +18,7 @@ brew upgrade --all
 brew install git
 brew install bash-completion
 brew install carthage
+brew install hockey
 
 # If you have home server or machines you want to wake up on lan
 brew install wakeonlan
