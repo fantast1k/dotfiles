@@ -22,6 +22,7 @@ brew install hockey
 brew install automake
 brew install autogen
 brew install autoconf
+brew install gnu-getopt
 
 # If you have home server or machines you want to wake up on lan
 brew install wakeonlan
