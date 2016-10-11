@@ -19,6 +19,9 @@ brew install git
 brew install bash-completion
 brew install carthage
 brew install hockey
+brew install automake
+brew install autogen
+brew install autoconf
 
 # If you have home server or machines you want to wake up on lan
 brew install wakeonlan
@@ -26,6 +29,7 @@ brew install wakeonlan
 # Install brew cask programs
 brew cask install transmission
 brew cask install keepingyouawake
+brew cask install sqlitebrowser
 
 # Remove outdated packages
 brew cleanup
